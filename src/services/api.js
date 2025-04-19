@@ -1,6 +1,6 @@
 import axios from "axios";
 
-// const API_KEY = "wxfz9hddd2blw9081"; // Replace with actual API key
+const API_KEY = ""; // Replace with actual API key
 const BASE_URL = "https://techhk.aoscdn.com/";
 const MAXIMUM_RETRIES =4 ;
 
